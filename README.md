@@ -7,4 +7,3 @@
 <p style="text-align: center;">https://www.linkedin.com/in/beth-oneglio-4968b1248</p>
 <h2 style="text-align: center;">Contacto y apoyo:</h2>
 <div style="text-align: center;"><a href="https://imgbb.com/"><img style="width: 200px; height: 60px;" src="https://i.ibb.co/y4vsgvq/image-removebg-preview-4-removebg-preview.png" alt="image-removebg-preview-4-removebg-preview" border="0" /></a></div>
-<p style="text-align: center;">&copy; 2024 bethnlg - Todos los derechos reservados</p>
