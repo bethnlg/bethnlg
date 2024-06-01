@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Hola, mi nombre es Beth 🙂</h1>
 <div style="text-align: center;">
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/p1Vgdpj/myAvatar.png" alt="myAvatar" border="0" style="width: 200px; height: 100px;"></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/p1Vgdpj/myAvatar.png" alt="myAvatar" border="0" style="width: 200px; height: 200px;"></a>
 </div>
 <h3 style="text-align: center;">Ingeniera de Software</h3>
 <p>¡Hola! Soy Beth Oneglio, una apasionada ingeniera en formación con experiencia en desarrollo web y programación. Mi conjunto de habilidades incluye JavaScript, Vue, MongoDB, Azure, Python y PHP, junto con conocimientos básicos en HTML, CSS, C++, y SQL. Estoy buscando oportunidades emocionantes donde pueda aplicar mis habilidades, seguir aprendiendo y trabajar en equipo para alcanzar objetivos increíbles. ¡No dudes en contactarme para iniciar una conversación sobre cómo podemos colaborar juntos!</p>
