@@ -9,6 +9,6 @@
 <p style="text-align: center;">https://www.linkedin.com/in/beth-oneglio-4968b1248</p>
 <h2 style="text-align: center;">Contacto y apoyo:</h2>
 <div style="text-align: center;">
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/y4vsgvq/image-removebg-preview-4-removebg-preview.png" alt="image-removebg-preview-4-removebg-preview" border="0" style="width: 100px; height: 100px;"></a>
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/y4vsgvq/image-removebg-preview-4-removebg-preview.png" alt="image-removebg-preview-4-removebg-preview" border="0" style="width: 100px; height: 50px;"></a>
 </div>
 <p style="text-align: center;">© 2024 bethnlg - Todos los derechos reservados</p>
