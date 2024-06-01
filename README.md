@@ -6,6 +6,6 @@
 <p>Instagram: https://www.instagram.com/bethnlg/</p>
 <p>LinkedIn: https://www.linkedin.com/in/beth-oneglio-4968b1248</p>
 <h2>Contacto y apoyo:</h2>
-<p><a href="https://imgbb.com/"><img src="https://i.ibb.co/48zDmxT/image-removebg-preview-4.png" alt="image-removebg-preview-4" border="0"></a></p>
+<p><a href="https://imgbb.com/"><img src="https://i.ibb.co/y4vsgvq/image-removebg-preview-4-removebg-preview.png" alt="image-removebg-preview-4-removebg-preview" border="0"></a></p>
 <p>&copy; 2024 bethnlg - Todos los derechos reservados</p>
 </div>
