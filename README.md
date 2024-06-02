@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Beth Oneglio</title>
+<html>
 </head>
 <body>
     <h1>Hola, mi nombre es Beth 🧐</h1>
@@ -15,6 +10,7 @@
     <h2>Encuéntrame en:</h2>
     <div>
         <a href="https://www.instagram.com/bethnlg/"><img style="width: 180px; height: 66px;" src="https://i.ibb.co/FVftDGQ/image-removebg-preview-5.png" alt="Instagram" border="0" /></a>
+    </br>
         <a href="https://www.linkedin.com/in/beth-oneglio-4968b1248/" style="margin-left: 20px;"><img style="width: 180px; height: 78px;" src="https://i.ibb.co/vQJCHYv/image-removebg-preview-6.png" alt="LinkedIn" border="0" /></a>
     </div>
     <h2>Contacto y apoyo:</h2>
