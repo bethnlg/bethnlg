@@ -4,6 +4,7 @@
 <p>¡Hola! Soy Beth Oneglio, una apasionada ingeniera en formación con experiencia en desarrollo web y programación. Mi conjunto de habilidades incluye JavaScript, Vue, MongoDB, Azure, Python y PHP, junto con conocimientos básicos en HTML, CSS, C++, y SQL. 💻💡 Estoy buscando oportunidades emocionantes donde pueda aplicar mis habilidades, seguir aprendiendo y trabajar en equipo para alcanzar objetivos increíbles. ¡No dudes en contactarme para iniciar una conversación sobre cómo podemos colaborar juntos! 😊🚀 ¡Hagamos que el código cobre vida!</p>
 <h2 style="text-align: center;">Encu&eacute;ntrame en:</h2>
 <a href="https://www.instagram.com/bethnlg/"><img src="https://i.ibb.co/FVftDGQ/image-removebg-preview-5.png" alt="image-removebg-preview-5" border="0"></a>
+</br>
 <a href="https://www.linkedin.com/in/beth-oneglio-4968b1248/"><img src="https://i.ibb.co/vQJCHYv/image-removebg-preview-6.png" alt="image-removebg-preview-6" border="0"></a>
 <h2 style="text-align: center;">Contacto y apoyo:</h2>
 <div style="text-align: center;"><a href="https://gmail.com/"><img style="width: 200px; height: 60px;" src="https://i.ibb.co/y4vsgvq/image-removebg-preview-4-removebg-preview.png" alt="image-removebg-preview-4-removebg-preview" border="0" /></a></div>
