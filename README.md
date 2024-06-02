@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Beth Oneglio</title>
-</head>
+<html>
 <body>
     <h1 style="text-align: center;">Hola, mi nombre es Beth 🧐</h1>
     <div style="text-align: center;">
