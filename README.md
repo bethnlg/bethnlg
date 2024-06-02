@@ -5,6 +5,6 @@
 <h2 style="text-align: center;">Encu&eacute;ntrame en:</h2>
 <div><a href="https://www.instagram.com/bethnlg/"><img style="width: 160px; height: 66px;" src="https://i.ibb.co/FVftDGQ/image-removebg-preview-5.png" alt="Instagram" border="0" /></a> 
 </br>
-<a href="https://www.linkedin.com/in/beth-oneglio-4968b1248/"><img style="width: 170px; height: 78px;" src="https://i.ibb.co/vQJCHYv/image-removebg-preview-6.png" alt="LinkedIn" border="0" /></a></div>
+<a href="https://www.linkedin.com/in/beth-oneglio-4968b1248/"><img style="width: 180px; height: 78px;" src="https://i.ibb.co/vQJCHYv/image-removebg-preview-6.png" alt="LinkedIn" border="0" /></a></div>
 <h2 style="text-align: center;">Contacto y apoyo:</h2>
 <div style="text-align: center;"><a href="https://gmail.com/"><img style="width: 200px; height: 60px;" src="https://i.ibb.co/y4vsgvq/image-removebg-preview-4-removebg-preview.png" alt="Gmail" border="0" /></a></div>
