@@ -9,6 +9,7 @@
     <h2 style="text-align: center;">Encuéntrame en:</h2>
     <div style="text-align: center; display: flex; justify-content: center; gap: 20px;">
         <a href="https://www.instagram.com/bethnlg/"><img style="width: 180px; height: 66px;" src="https://i.ibb.co/FVftDGQ/image-removebg-preview-5.png" alt="Instagram" border="0" /></a>
+    </br>
         <a href="https://www.linkedin.com/in/beth-oneglio-4968b1248/"><img style="width: 180px; height: 78px;" src="https://i.ibb.co/vQJCHYv/image-removebg-preview-6.png" alt="LinkedIn" border="0" /></a>
     </div>
     <h2 style="text-align: center;">Contacto y apoyo:</h2>
