@@ -14,7 +14,7 @@
     </div>
     <h2>Contacto y apoyo:</h2>
     <div>
-        <a href="https://gmail.com/"><img style="width: 190px; height: 60px;" src="https://i.ibb.co/y4vsgvq/image-removebg-preview-4-removebg-preview.png" alt="Gmail" border="0" /></a>
+        <a href="https://gmail.com/"><img style="width: 200px; height: 60px;" src="https://i.ibb.co/y4vsgvq/image-removebg-preview-4-removebg-preview.png" alt="Gmail" border="0" /></a>
     </div>
 </body>
 </html>
