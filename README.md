@@ -1,9 +1,4 @@
 <html>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil de Beth Oneglio</title>
-</head>
 <body style="text-align: justify;">
     <h1>Hola, mi nombre es Beth 🧐</h1>
     <div>
