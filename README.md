@@ -4,17 +4,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 
-
-<br>
-
-
-
-<html>
-<body style="text-align: justify;">
-    <h1>Hola, mi nombre es Beth 🧐</h1>
-    <div>
-        <a href="https://imgbb.com/"><img style="width: 200px; height: 200px;" src="https://i.ibb.co/p1Vgdpj/myAvatar.png" alt="myAvatar" border="0" /></a>
-    </div>
     <h2>Ingeniera de Software</h2>
     <p>¡Hola! Soy Beth Oneglio, una apasionada ingeniera en formación con experiencia en desarrollo web y programación. Mi conjunto de habilidades incluye JavaScript, Vue, MongoDB, Azure, Python y PHP, junto con conocimientos básicos en HTML, CSS, C++, y SQL. 💻💡 Estoy buscando oportunidades emocionantes donde pueda aplicar mis habilidades, seguir aprendiendo y trabajar en equipo para alcanzar objetivos increíbles. ¡No dudes en contactarme para iniciar una conversación sobre cómo podemos colaborar juntos! 😊🚀 ¡Hagamos que el código cobre vida!</p>
     <h2>Encuéntrame en:</h2>
