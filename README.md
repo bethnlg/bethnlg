@@ -2,8 +2,9 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
-<h3>👨🏻‍💻 &nbsp;About Me</h3>
-    <h3>Hey there! I'm Beth Oneglio, a trainee engineer with skills in web development and programming. In my free time, I enjoy exercising, spending time with friends, and spoiling my adorable cats.</h3>
+
+### 👨🏻‍💻 &nbsp;About Me
+### Hey there! I'm Beth Oneglio, a trainee engineer with skills in web development and programming. In my free time, I enjoy exercising, spending time with friends, and spoiling my adorable cats.
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
