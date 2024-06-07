@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 - :school: Soy Junior en la 'Universidad Peruana de Ciencias Aplicadas'.
 - :technologist: Me encanta usar el software como solución para cada "problema".
@@ -12,7 +12,7 @@
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 - :thinking: Actualmente estoy abierto a una nueva "oportunidad laboral".
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -22,7 +22,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Databases
+## 🗃 &nbsp;Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Version Controll & Tools 
