@@ -1,3 +1,14 @@
+<h1 align="center"><b>Hi , I'm Beth Oneglio</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->A
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student)](https://git.io/typing-svg)
+</p>
+
+
+<br>
+
+
+
 <html>
 <body style="text-align: justify;">
     <h1>Hola, mi nombre es Beth 🧐</h1>
