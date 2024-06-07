@@ -5,13 +5,12 @@
 
 <h2>👨🏻‍💻 &nbsp;About Me</h2>
 
-- :school: Soy Junior en la 'Universidad Peruana de Ciencias Aplicadas'
+- :school: Soy Junior en la 'Universidad Peruana de Ciencias Aplicadas'.
 - :technologist: Me encanta usar el software como solución para cada "problema".
-- :computer: soy un programador competitivo
+- :computer: Soy un programador competitivo.
 - :student: Actualmente estoy aprendiendo `Ingeniería de Software`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :thinking: Actualmente estoy abierto a una nueva "oportunidad laboral"
-<br>
+- :thinking: Actualmente estoy abierto a una nueva "oportunidad laboral".
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
