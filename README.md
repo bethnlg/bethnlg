@@ -1,3 +1,4 @@
+<body>
     <h1 align="center"><b>Hey there! I'm Beth Oneglio</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
             width="35"></h1>
     <p align="center">
@@ -56,3 +57,4 @@
         <a href="https://www.instagram.com/bethnlg/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white"
                 alt="Instagram"></a>&nbsp;
     </p>
+</body>
