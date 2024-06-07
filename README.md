@@ -3,8 +3,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 
-### 👨🏻‍💻 &nbsp;About Me
-Hey there! I'm Beth Oneglio, a trainee engineer with skills in web development and programming. In my free time, I enjoy exercising, spending time with friends, and spoiling my adorable cats.
+<h2>👨🏻‍💻 &nbsp;About Me</h2>
+
+- :school: Soy Junior en la 'Universidad Peruana de Ciencias Aplicadas'
+- :technologist: Me encanta usar el software como solución para cada "problema".
+- :computer: soy un programador competitivo
+- :student: Actualmente estoy aprendiendo `Ingeniería de Software`.
+- :nerd_face: Siempre `aprendiendo cosas nuevas`.
+- :thinking: Actualmente estoy abierto a una nueva "oportunidad laboral"
+<br>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
