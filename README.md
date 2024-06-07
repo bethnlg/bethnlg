@@ -1,9 +1,9 @@
-<h1 align="center"><b>Hey there! I'm Beth Oneglio</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b></b>I'm Beth Oneglio</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 <h2>👨🏻‍💻 &nbsp;About Me</h2>
-    <h4>Hello! I'm Beth Oneglio, a trainee engineer with skills in web development and programming. In my free time, I enjoy exercising, spending time with friends, and spoiling my adorable cats.</h4>
+    <h4>Hey there! I'm Beth Oneglio, a trainee engineer with skills in web development and programming. In my free time, I enjoy exercising, spending time with friends, and spoiling my adorable cats.</h4>
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
