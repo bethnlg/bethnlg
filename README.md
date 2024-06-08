@@ -5,7 +5,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- :school: Soy una Estudiante en la `Universidad Peruana de Ciencias Aplicadas`.
+- :school: Soy una estudiante en la `Universidad Peruana de Ciencias Aplicadas`.
 - :technologist: Me encanta usar el software como solución para cada `problema`.
 - :computer: Soy una programadora competitiva.
 - :student: Actualmente estoy aprendiendo `Ingeniería de Software`.
