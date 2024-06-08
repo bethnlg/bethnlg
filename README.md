@@ -11,7 +11,6 @@
 - :student: Actualmente estoy aprendiendo `Ingeniería de Software`.
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 - :thinking: Actualmente estoy abierto a una nueva `oportunidad laboral`.
-- :hobbit: Me encanta hacer ejercicio y salir con mis amigos. 
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
