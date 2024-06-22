@@ -7,8 +7,8 @@
 
 - :school: I'm a student at the `Universidad Peruana de Ciencias Aplicadas`.
 - :technologist: I love using software as a solution for every `problem`.
-- :computer: I'mm a competitive programmer.
-- :student: I'mm currently learning `Software Engineering`.
+- :computer: I'm a competitive programmer.
+- :student: I'm currently learning `Software Engineering`.
 - :nerd_face: Always 'learning new things'.
 - :thinking: I'm currently open to a new 'job opportunity'.
 
