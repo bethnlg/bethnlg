@@ -9,8 +9,8 @@
 - :technologist: I love using software as a solution for every `problem`.
 - :computer: I am a competitive programmer.
 - :student: I am currently learning `Software Engineering`.
-- :nerd_face: Always 'learning new things'.
-- :thinking: I am currently open to a new 'job opportunity'.
+- :nerd_face: Always `learning new things`.
+- :thinking: I am currently open to a new `job opportunity`.
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
