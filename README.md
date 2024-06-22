@@ -1,16 +1,16 @@
-<h1 align="center"><b></b>Hola! Me llamo Beth </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b></b>Hi! My name is Beth </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- :school: Soy una estudiante en la `Universidad Peruana de Ciencias Aplicadas`.
-- :technologist: Me encanta usar el software como solución para cada `problema`.
-- :computer: Soy una programadora competitiva.
-- :student: Actualmente estoy aprendiendo `Ingeniería de Software`.
-- :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :thinking: Actualmente estoy abierto a una nueva `oportunidad laboral`.
+- :school: I am a student at the `Universidad Peruana de Ciencias Aplicadas`.
+- :technologist: I love using software as a solution for every `problem`.
+- :computer: I am a competitive programmer.
+- :student: I am currently learning `Software Engineering`.
+- :nerd_face: Always 'learning new things'.
+- :thinking: I am currently open to a new 'job opportunity'.
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
