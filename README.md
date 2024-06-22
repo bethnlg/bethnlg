@@ -5,12 +5,12 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-- :school: I'm a student at the `Universidad Peruana de Ciencias Aplicadas`.
+- :school: I am a student at the `Universidad Peruana de Ciencias Aplicadas`.
 - :technologist: I love using software as a solution for every `problem`.
-- :computer: I'm a competitive programmer.
-- :student: I'm currently learning `Software Engineering`.
+- :computer: I am a competitive programmer.
+- :student: I am currently learning `Software Engineering`.
 - :nerd_face: Always 'learning new things'.
-- :thinking: I'm currently open to a new 'job opportunity'.
+- :thinking: I am currently open to a new 'job opportunity'.
 
 ## 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
