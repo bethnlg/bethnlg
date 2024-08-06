@@ -34,5 +34,5 @@
 ## 🤝🏻 &nbsp;Connect with Me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/bethnlg/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beth-oneglio-4968b1248/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onegliodepaz@gmail.com?subject=Contacto&body=Hola%20Beth.%20Me%20gustaría%20ponerme%20en%20contacto%20contigo.)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onegliodepaz@gmail.com?subject=Contacto)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCSwf00GVQePqXvFljfACHVw)
