@@ -1,8 +1,8 @@
+<img src="https://komarev.com/ghpvc/?username=bethnlg&style=flat-square&color=blue" alt="bethnlgview"/>
+
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineering+Student" alt="Typing SVG" /></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=bethnlg&style=flat-square&color=blue" alt="bethnlgview"/>
 
 ## About Me
 
