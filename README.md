@@ -7,7 +7,6 @@
 - I am a competitive programmer.
 - I am currently learning `Software Engineering`.
 - Always `learning new things`.
-- I am currently open to a new `job opportunity`.
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
